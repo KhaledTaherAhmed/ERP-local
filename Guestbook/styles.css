@@ -1,0 +1,60 @@
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.buttonHolder {
+    text-align: center;
+}
+
+.fontAven {
+    font-family: "Avenir Next";
+}
+
+.middle {
+    background-image: url("Assets/layer-22.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    min-width: 100;
+    height: auto;
+    width: 100%;
+}
+
+::placeholder {
+    color: #92856a;
+}
+
+#logo {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.social {
+    margin-left: 5%;
+    
+    
+}
+
+.yellowC {
+    color: #92856a;
+}
+
+.footer {
+    background-color: #4d4d4f;
+}
+
+.mtop {
+    margin-top: 5%;
+}
+
+#footerElements {
+    margin-left: 30%;
+}
+
+#topVisitors {
+    margin-left: 25%;
+}
+
+#navigationTopV {
+    margin-left: 40%;
+}
