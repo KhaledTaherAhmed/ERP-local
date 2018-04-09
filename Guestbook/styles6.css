@@ -7,8 +7,8 @@ img {
     text-align: center;
 }
 
-.fontAven {
-    font-family: "Avenir Next";
+body {
+    font-family: AvenirNextLTPro;
 }
 
 .middle {
@@ -30,9 +30,7 @@ img {
 }
 
 .social {
-    margin-left: 5%;
-    
-    
+    margin-left: 5%;  
 }
 
 .yellowC {
