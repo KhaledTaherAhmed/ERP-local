@@ -1,0 +1,101 @@
+.body{
+    background-color: #f7f7f7;
+}
+
+
+.mainStyle{
+    color: #92856a;
+    font-weight: bold;
+    
+}
+
+.paragraph{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+
+.title{
+    font-size: 20px;
+    color: black ; 
+}
+
+.iconGather{
+    color: #92856a;
+    font-size: 18px;
+}
+    
+
+.dateRight{
+    color: #92856a;
+    float: right;
+}
+
+
+.mergeup{
+    background-color: white ;
+    opacity: 0.9; 
+    border-radius: 5px;
+    border: 1px solid #e1e3e4 ; 
+    margin-top:-25px; 
+    padding: 15px;
+}
+
+
+.startSection {
+    background-image: url("Images/flag.png");
+    width: 100%; 
+    height: 600px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+#upperLogo {
+    max-width: 15%;
+    max-height: 15%;
+    margin-top: 3%;
+    margin-left: 17%;
+}
+
+
+
+.picture{
+    width: 100% ;
+    height: 120%;
+    background-color: transparent; 
+}
+
+.colum1{
+    width: 410px; 
+    height: 300px;
+    margin-left: 15px;
+}
+
+
+.colum2{
+    width: 410px; 
+    height: 490px;
+    margin-left:550px;
+    margin-top: -300px;
+}
+
+.up{
+    margin-top: -600px;
+}
+
+.icons{
+    padding: 4.5px;
+    color: #92856a;
+}
+
+.footer {
+    background-color: #191d26;
+    height: 45px;
+    text-align: center;
+    padding-top: 1em;
+    word-spacing: 35px;
+    left: 0;
+    bottom: 0;
+}
